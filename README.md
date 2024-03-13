@@ -1,1 +1,1 @@
-Site recette gateau au chocolat
+Site recette gateau au chocolat (pratique html + css)
